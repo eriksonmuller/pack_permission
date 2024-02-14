@@ -1,0 +1,23 @@
+name: package_permission
+description: "A new Flutter package project."
+version: 0.0.1
+#homepage:
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  geocoding: ^2.1.1
+  location: ^5.0.3
+  permission_handler: ^11.1.0
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
